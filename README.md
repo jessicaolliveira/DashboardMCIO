@@ -160,7 +160,9 @@ e CSS e empacotada de forma automatizada. Os objetivos de aprendizagem foram:
   
 :large_blue_diamond: Iris  
   
-:large_blue_diamond: Jessica
+:large_blue_diamond: Jéssica Oliveira
+
+<a href="https://www.www.linkedin.com/in/jessica-olliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" />
   
 :large_blue_diamond: Juliana
 
